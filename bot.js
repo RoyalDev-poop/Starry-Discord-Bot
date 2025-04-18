@@ -57,3 +57,6 @@ client.on("interactionCreate", async interaction => {
 });
 
 client.login(process.env.TOKEN); // ✅ Make sure this is all caps in your .env
+
+node bot.Js
+
